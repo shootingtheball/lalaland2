@@ -1,0 +1,121 @@
+{code: "2000",…}
+code
+:
+"2000"
+data
+:
+{brandId: 8, brandName: "ALICIA LEE", cateId: 48, createdTime: "2018-01-03 19:59:32",…}
+brandId
+:
+8
+brandName
+:
+"ALICIA LEE"
+cateId
+:
+48
+createdTime
+:
+"2018-01-03 19:59:32"
+detail
+:
+"<p><img src="//image.zhongmispace.com/product/20180105/e2d47f53-7ee7-4e90-8996-25c9c2ceff62.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180105/9c3996f9-4a5d-4bd9-98bc-ae2330308be3.jpg"/></p><p><img src="//image.zhongmispace.com/product/20180105/36b3fd3c-2f53-4ffd-87c3-867ec8fe7bf7.jpg"/></p><p><br/></p>"
+id
+:
+23252
+imageUrl
+:
+["//image.zhongmispace.com/product/20180105/b1e31eb6-4be4-499b-8471-02b52a4f12ff.jpg",…]
+merchantId
+:
+1
+name
+:
+"西装领系腰带直身大衣"
+productCode
+:
+"M-002-2"
+productFeatures
+:
+[]
+skuList
+:
+[{barcode: "M-002-211140", cateId: 48, createdTime: "2018-01-04 11:37:24", freightDetail: "2件包邮",…},…]
+0
+:
+{barcode: "M-002-211140", cateId: 48, createdTime: "2018-01-04 11:37:24", freightDetail: "2件包邮",…}
+1
+:
+{barcode: "M-002-22140", cateId: 48, createdTime: "2018-01-04 11:37:24", freightDetail: "2件包邮",…}
+2
+:
+{barcode: "M-002-21140", cateId: 48, createdTime: "2018-01-04 11:37:24", freightDetail: "2件包邮",…}
+barcode
+:
+"M-002-21140"
+cateId
+:
+48
+createdTime
+:
+"2018-01-04 11:37:24"
+freightDetail
+:
+"2件包邮"
+id
+:
+87462
+imageUrl
+:
+["//image.zhongmispace.com/shop/20180105/af633e92-c1c6-466d-87dc-86294e11c902.jpg"]
+inventoryList
+:
+[{count: 1, id: 530366, placeId: 295, productId: 23252, skuId: 87462},…]
+marketPrice
+:
+4288
+merchantName
+:
+"五色风马"
+miaosha
+:
+false
+originName
+:
+"测试产地"
+productId
+:
+23252
+promotionInfo
+:
+{rules: [], skuId: 87462}
+recommend
+:
+false
+sellPrice
+:
+4288
+skuFeatures
+:
+[{featureId: 46504, name: "尺码", value: ["S"]}, {featureId: 46503, name: "颜色", value: ["粉色"]}]
+title
+:
+"西装领系腰带直身大衣粉色S"
+updatedTime
+:
+"2018-02-07 18:23:04"
+wholesale
+:
+false
+status
+:
+"ACTIVE"
+updatedTime
+:
+"2018-02-07 18:24:04"
+wholesale
+:
+false
+msg
+:
+""
